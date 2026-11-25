@@ -1,2 +1,2 @@
 # cnd_despacho_bsv_info
-info de mi app
+info de mi aplicacion
